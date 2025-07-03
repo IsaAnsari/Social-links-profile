@@ -9,8 +9,8 @@ This is my solution to the [Social Links Profile Challenge](https://www.frontend
 
 ## 🔗 Live Site
 
-- [Live Site URL](https://your-username.github.io/social-links-profile/)
-- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-link)
+- [Live Site URL](https://isaansari.github.io/Social-links-profile/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-a2h_Rd6tEt)
 
 ## 🛠️ Built With
 
