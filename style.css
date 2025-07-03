@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: hsl(0, 0%, 12%);
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    width: 90%;
+    max-width: 350px;
+}
+
+.avatar {
+    width: 90px;
+    border-radius: 50%;
+    margin-bottom: 1.5rem;
+}
+
+.name {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.location {
+    color: hsl(75, 94%, 57%);
+    font-size: 0.9rem;
+    margin: 0.3rem 0 1rem;
+}
+
+.tagline {
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+    color: hsl(0, 0%, 70%);
+}
+
+.social-links {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.btn {
+    display: block;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    text-decoration: none;
+    padding: 0.75rem;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.attribution {
+    font-size: 0.7rem;
+    color: hsl(0, 0%, 60%);
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
